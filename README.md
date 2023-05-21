@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Html,Css3,JavaScript,React**
 
-- 🌱 I’m currently learning **Html,Css3,JavaScript,React,NodeJS,MongoDB,MERNSTACK**
+- 🌱 I am currently learning **Html,Css3,JavaScript,React,NodeJS,MongoDB. I have little knowledge of php and mysql**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
@@ -32,11 +32,20 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.php.net/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="git" width="40" height="40"/> 
-  </a>
    <a href="https://react.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="git" width="40" height="40"/> 
+  </a>
+   <a href="https://www.php.net/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
 
