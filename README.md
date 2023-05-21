@@ -42,7 +42,7 @@
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BerkeSZ&theme=radical&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkeSZ&theme=radical&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BerkeSZ&theme=radical" />
 </p>
 
 ------
