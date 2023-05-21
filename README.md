@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **Html,Css3,JavaScript,React**
 
-- 🌱 I’m currently learning **Html,Css3,JavaScript,React**
+- 🌱 I’m currently learning **Html,Css3,JavaScript,React,NodeJS,MongoDB,MERNSTACK**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
